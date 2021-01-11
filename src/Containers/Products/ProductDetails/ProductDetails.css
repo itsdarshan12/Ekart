@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,900;1,900&family=Ubuntu:wght@500&display=swap');
+
+/***********************GRID CSS*********************/
+.Col_06 {
+    width: 50%;
+    float: left;
+}
+
+.Col_12 {
+    width: 100%;
+    float: left;
+}
+
+.Col_04 {
+    width: 33%;
+    float: left;
+}
+
+.Col_03 {
+    width: 25%;
+    float: left;
+}
+
+.Col_01 {
+    width: 8%;
+    float: left;
+}
+
+.Col_08 {
+    width: 75%;
+    float: left;
+}
+
+
+/***********************GRID CSS*********************/
+
+.ProductDetails {
+    width: 96%;
+    padding: 2%;
+    float: left;
+}
+
+.ProductHeading {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.ProductImg {
+    height: 500px;
+    /* background-color: grey; */
+}
+
+.DetailSection {
+    height: 410px;
+    width: 100%;
+    padding: 1px;
+    background-color: rgb(201, 196, 196);
+    border-radius: 5px;
+}
+
+.PriceHeading {
+    color: #000000;
+    margin: 5px 0 0 4px;
+    width: 100%;
+    float: left;
+}
+
+.SubDetailHeading {
+    color: #000000;
+    margin: 5px 0 0 4px;
+    width: 100%;
+    float: left;
+}
+
+.Quantity {
+    height: 50px;
+    width: 98%;
+    float: left;
+    padding: 2px;
+}
+
+.QtyInput {
+    float: left;
+    margin: 14px 0 0 5px;
+}
+
+.ImgContainer {
+    width: 100%;
+    height: 100%;
+    background-color: lightgreen;
+    border-radius: 5px;
+}
+
+.DetailDivFooter {
+    width: 100%;
+    float: left;
+    height: 80px;
+}
+
+.CartBtn {
+    margin: 5px 5px 0 10px;
+    float: left;
+    background: #95eb34;
+    color: #ffffff;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.WishlistBtn {
+    margin: 5px 5px 0 10px;
+    background: #ff4343;
+    color: #ffffff;
+    font-weight: bold;
+    border-radius: 5px;
+}

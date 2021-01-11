@@ -1,0 +1,114 @@
+/***********************GRID CSS*********************/
+.Col_06 {
+    width: 50%;
+    float: left;
+}
+
+.Col_12 {
+    width: 100%;
+    float: left;
+}
+
+.Col_04 {
+    width: 33%;
+    float: left;
+}
+
+.Col_03 {
+    width: 25%;
+    float: left;
+}
+
+.Col_01 {
+    width: 8%;
+    float: left;
+}
+
+.Col_08 {
+    width: 75%;
+    float: left;
+}
+
+
+/***********************GRID CSS*********************/
+.Toolbar {
+    height: 46px;
+    width: 100%;
+    float: left;
+    background-color: #bfbfbf;
+    position: fixed;
+    z-index: 99;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .16);
+}
+
+.Toolbar nav {
+    width: 100%;
+}
+
+.NavItems {
+    display: inline-block;
+}
+
+.NavItem {
+    display: inline-block;
+    color: #000000;
+    font-weight: bold;
+    text-align: center;
+    margin: 2px 1px 0 9px;
+    width: 16rem;
+}
+
+.NavItem a {
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+}
+
+.NavItem a:hover,
+.NavItem a:active,
+.NavItem a.active {
+    color: #4a67eb;
+}
+
+.ProductInfo {
+    background-color: #e2e4e6;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .16);
+}
+
+.ProductList {
+    padding: 13px;
+    width: 98%;
+    height: 500px;
+    float: left;
+    background-color: #e2e4e6;
+}
+
+.ProductTitle {
+    padding: 3px;
+    width: 49%;
+    height: 80px;
+    background: #f7ebeb;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .16);
+}
+
+.ViewMoreBtn {
+    background: #2874f0;
+    color: #ffffff;
+    width: 7rem;
+    height: 2rem;
+    border-radius: 5px;
+    float: right;
+    margin: 21px 29px 0 0;
+    font-weight: bold;
+}
+
+.ProductCard {
+    display: block;
+    width: 100%;
+    float: left;
+}
+
+.ProductCardImg {
+    width: 100%;
+    float: left;
+}

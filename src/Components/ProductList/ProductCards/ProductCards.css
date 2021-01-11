@@ -1,0 +1,95 @@
+/***********************GRID CSS*********************/
+.Col_06 {
+    width: 50%;
+    float: left;
+}
+
+.Col_12 {
+    width: 100%;
+    float: left;
+}
+
+.Col_04 {
+    width: 33%;
+    float: left;
+}
+
+.Col_03 {
+    width: 25%;
+    float: left;
+}
+
+.Col_01 {
+    width: 8%;
+    float: left;
+}
+
+.Col_08 {
+    width: 75%;
+    float: left;
+}
+
+
+/***********************GRID CSS*********************/
+
+.ProductCardImg {
+    width: 100%;
+    float: left;
+}
+
+.Rating {
+    background: rgb(40, 228, 40);
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 4px;
+}
+
+.CardDetails {
+    float: left;
+    width: 100%;
+    margin: 0 0 1px 0;
+}
+
+.CardBtns {
+    margin: 3px 2px 0 4px;
+}
+
+.ViewBtn {
+    background: #3e3edf;
+    color: #ffffff;
+    font-weight: bold;
+    border-radius: 5PX;
+}
+
+.WishListBtn {
+    background: #ff4343;
+    color: #ffffff;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: rgb(255, 67, 67);
+}
+
+.CardStyle {
+    height: 305px;
+    text-align: center;
+    margin: 15px 0 15px 0;
+}
+
+@media screen and (max-device-width:600px) {
+    .CardStyle {
+        height: 355px;
+    }
+}
+
+@media screen and (max-device-width:700px) {
+    .CardStyle {
+        height: 400px;
+    }
+}
+
+@media screen and (max-device-width:500px) {
+    .CardStyle {
+        height: 370px;
+    }
+}

@@ -1,0 +1,31 @@
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+.TableImgData {
+    width: 6rem;
+    text-align: center;
+}
+
+.TableFooterDiv {
+    width: 98%;
+    padding: 1px;
+    height: 3rem;
+    float: left;
+}
+
+.Total {
+    float: right;
+    margin: 14px 33px 0 4px;
+    font-weight: bold;
+    text-align: center;
+}

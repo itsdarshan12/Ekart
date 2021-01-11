@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,900;1,900&family=Ubuntu:wght@500&display=swap');
+
+/**************SECTIONS*************** */
+
+
+/***********************GRID CSS*********************/
+.Col_06 {
+    width: 50%;
+    float: left;
+}
+
+.Col_12 {
+    width: 100%;
+    float: left;
+}
+
+.Col_04 {
+    width: 33%;
+    float: left;
+}
+
+.Col_03 {
+    width: 25%;
+    float: left;
+}
+
+.Col_01 {
+    width: 8%;
+    float: left;
+}
+
+.Col_08 {
+    width: 75%;
+    float: left;
+}
+
+
+/***********************GRID CSS*********************/
+
+.Cart {
+    width: 96%;
+    padding: 2%;
+    float: left;
+}
+
+.CardHeading {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.TableContainer {
+    padding: 1px;
+    width: 98%;
+}
+
+.PlaceorderBtn {
+    float: right;
+}
+
+.EmptyBtn {
+    width: 8rem;
+    height: 3rem;
+    border-radius: 5px;
+    background: #ef4343;
+    color: #ffffff;
+    font-weight: bold;
+    margin: 3px 8px 0 5px;
+    float: right;
+}
+
+.ConfirmBtn {
+    width: 8rem;
+    height: 3rem;
+    border-radius: 5px;
+    background: #4be625;
+    color: #ffffff;
+    font-weight: bold;
+    margin: 3px 8px 0 5px;
+    float: right;
+}
